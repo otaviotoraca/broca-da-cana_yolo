@@ -1,0 +1,8 @@
+
+path: 'D:\TCC - Otávio Toraça\primeiroTeste'
+train: 'D:\TCC - Otávio Toraça\primeiroTeste'
+val: 'D:\TCC - Otávio Toraça\primeiroTeste'
+test: 
+
+nc: 1
+names: ['mariposa']

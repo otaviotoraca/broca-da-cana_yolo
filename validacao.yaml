@@ -1,0 +1,8 @@
+
+path: 'D:\PycharmProjects\testeTreinamento\runs\detect\dataset_val'
+train: 'D:\PycharmProjects\testeTreinamento\runs\detect\dataset_val'
+val: 'D:\PycharmProjects\testeTreinamento\runs\detect\dataset_val'
+test:
+
+nc: 1
+names: ['mariposa']
